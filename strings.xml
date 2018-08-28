@@ -23,7 +23,7 @@
     <string name="buttons_title">Клавиши</string>
     <string name="display_title">Расширенный экран</string>
     <string name="gestures_title">Жесты</string>
-    <string name="ime_title">IME Settings</string>
+    <string name="ime_title">IME Настройки</string>
     <string name="interface_title">Интерфейс</string>
     <string name="lockscreen_title">Экран блокировки</string>
     <string name="misc_title">Разное</string>
@@ -70,7 +70,7 @@
 
     <!-- Lockscreen battery info indicator  -->
     <string name="lockscreen_battery_info_title">Информация о зарядке на экране блокировки</string>
-    <string name="lockscreen_battery_info_summary">Display negociated charger max current and voltage and battery temperature on lockscreen while charging</string>
+    <string name="lockscreen_battery_info_summary">Отображать температуру батареи и напряжение во время зарядки</string>
 
     <!-- Fingerprint authentication vibration -->
     <string name="fprint_sucess_vib_title">Вибрация при разблокировке отпечатком</string>
@@ -143,7 +143,7 @@
 
     <!-- ANBI -->
     <string name="anbi_title">Случайные нажатия</string>
-    <string name="anbi_summary">предотвращать взаимодействие с навигационной панелью во время касания экрана</string>
+    <string name="anbi_summary">Предотвращать взаимодействие с навбаром во время касания экрана</string>
 
     <!-- Statusbar Tuner -->
     <string name="statusbar_items_title">Иконки в строке состояния</string>
@@ -173,7 +173,7 @@
 
     <!-- QuickSettings haptic feedback -->
     <string name="quick_settings_vibrate_title">Вибрация при касании</string>
-    <string name="quick_settings_vibrate_summary">Вибрация при касании элементо в шторке</string>
+    <string name="quick_settings_vibrate_summary">Вибрация при касании элементов в шторке</string>
 
     <!-- Disable OS on lockscreen -->
     <string name="block_on_secure_keyguard_title">Отключить шторку</string>
@@ -206,7 +206,7 @@
     <string name="keyboard_rotation_toggle_title">Автоповорот клавиатуры</string>
     <string name="keyboard_rotation_toggle_summary">Принудительный автоповорот клавиатуры</string>
     <string name="keyboard_rotation_timeout_title">Задержка автоповорота</string>
-    <string name="keyboard_rotation_timeout_summary">Отключить датчик поворота через <xliff:g id="rotate_timeout">%1$s</xliff:g> секунд после скрытия клавиатуры</string>
+    <string name="keyboard_rotation_timeout_summary">Отключить датчик поворота через <xliff:g id="rotate_timeout">%1$</xliff:g> секунд после скрытия клавиатуры</string>
     <string name="keyboard_rotation_dialog">Временный автоповорот</string>
     <string name="show_enter_key_title">Показывать клавишу ввода</string>
     <string name="show_enter_key_summary">Принудительно показывать клавишу ввода вместо смайлов</string>
@@ -350,11 +350,11 @@
     <string name="wakeup_when_plugged_unplugged_summary">Пробуждение когда зарядное устройство подключено/отключено</string>
 
     <!-- Three-fingers-swipe to screenshot -->
-    <string name="three_finger_gesture">Скриншот Взмахом</string>
+    <string name="three_finger_gesture">Скриншот взмахом</string>
     <string name="three_finger_gesture_summary">Взмахните тремя пальцами чтобы сделать скриншот</string>
 
     <!-- Wakelock blocker -->
-    <string name="wakelock_blocker_title">БлБлокировать системные вэйклоки</string>
+    <string name="wakelock_blocker_title">Блокировать системные вэйклоки</string>
     <string name="wakelock_blocker_save">Сохранить</string>
     <string name="wakelock_blocker_summary">Итог</string>
     <string name="wakelock_list_header">Доступные вэйклоки</string>
@@ -365,7 +365,7 @@
     <!-- Alarm blocker -->
     <string name="alarm_blocker">Блокировка Alarms</string>
     <string name="alarm_blocker_title">Включено</string>
-    <string name="alarm_blocker_summary">Блокировать Alarms при выключении экрана</string>
+    <string name="alarm_blocker_summary">Блокировать alarms при выключении экрана</string>
     <string name="alarm_blocker_save">Сохранить</string>
     <string name="alarm_list_header">Доступные alarms</string>
     <string name="alarm_blocker_reload">Обновить</string>
