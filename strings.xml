@@ -354,9 +354,9 @@
     <string name="three_finger_gesture_summary">Взмахните тремя пальцами чтобы сделать скриншот</string>
 
     <!-- Wakelock blocker -->
-    <string name="wakelock_blocker_title">Блокировать системные вэйклоки</string>
+    <string name="wakelock_blocker_title">Блокировка вэйклоков</string>
     <string name="wakelock_blocker_save">Сохранить</string>
-    <string name="wakelock_blocker_summary">Итог</string>
+    <string name="wakelock_blocker_summary">Блокировать системные вэйклоки</string>
     <string name="wakelock_list_header">Доступные вэйклоки</string>
     <string name="wakelock_blocker_reload">обновить</string>
     <string name="wakelock_blocker_warning_title">Внимание</string>
